@@ -4,6 +4,7 @@
 #### 📚 Currently Learning
 
 * Python
+* Fortran
 * HTML, CSS, JavaScript
 
 #### 🛠️ Currently Working On
