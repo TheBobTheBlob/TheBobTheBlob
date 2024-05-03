@@ -4,7 +4,7 @@
 #### 📚 Currently Learning
 
 - Python
-- C++
+- Rust
 - LaTeX
 - Web Development
 
