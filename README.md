@@ -1,22 +1,25 @@
 
-### Hello, I'm Bob the Blob!
+### Hello, I'm Punit Turlapati!
 
-#### 📚 Currently Learning
+I'm also known as Bob the Blob. Currently doing a Ph.D. in Computer Science at Missouri S&T, advised by Marion Sudvarg. I graduated Summa Cum Laude (4.0 GPA) with a Bachelors of Science in Computer Science and Physics and a minor in Mathematics. 
+
+#### 🖥️ Tech I Use
 
 - Python
-- Rust
+- Typescript
 - LaTeX
-- Web Development
 
 #### 🛠️ Currently Working On
 
-- Spectra - A video player built using Python and Qt.
-- Notes - University notes created with LaTeX
-<!--- [cbPDF](https://github.com/TheBobTheBlob/cbPDF "Github repository for cbPDF") - A command-line tool to convert a folder/archive with images into a PDF.-->
+- Antarctic Demonstrator for the Advanced Particle-astrophysics Telescope
+- Secreterrier
 
+<!---
 #### 📦 Old Projects
 
 - [Bob the Bot](https://github.com/TheBobTheBlob/Bob-the-Bot "Github repository for Bob the Bot") - A Discord bot with a focus on table-top roleplaying games.
+- Notes - University notes created with LaTeX
+--->
 
 <!---
 TheBobTheBlob/TheBobTheBlob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
